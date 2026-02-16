@@ -10,7 +10,7 @@ export class Person {
         this.age = age
     }
     setAge(age: number){
-        this.age = 100
+        this.age = age
     }
     getAge(){
         return this.age
