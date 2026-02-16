@@ -15,7 +15,7 @@ export class Person {
     getAge(){
         return this.age
     }
-    getFullname(){
+    getFullName(){
         return this.firstname + ' ' + this.lastname
     }
 }
